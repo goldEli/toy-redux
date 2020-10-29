@@ -3,4 +3,4 @@
 - [x] createStore
 - [x] applyMiddlewear
 - [x] logger
-- [x] logger
+- [x] thunk
